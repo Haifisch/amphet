@@ -1,0 +1,11 @@
+Package: services.bugz4amphets.amphet-tool
+Name: amphet
+Depends: 
+Architecture: iphoneos-arm
+Description: cli utility to fuck with the ios kernel
+Maintainer: haifisch
+Author: haifisch
+Section: System
+Tag: role::hacker
+Version: 1.0-8+debug
+Installed-Size: 252
